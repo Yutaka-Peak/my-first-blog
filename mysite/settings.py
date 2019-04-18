@@ -25,7 +25,7 @@ SECRET_KEY = 'i&gsb*i(mnez_7guvu=5j1tt$bbl3+@$5b#o!=afpt*sz4r1#f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'yutakapeak.pythonanywhere.com']
 
 
 # Application definition
